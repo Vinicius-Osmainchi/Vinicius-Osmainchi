@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">With a primary focus on frontend development, I thrive in crafting captivating and user-friendly web applications. Proficient in HTML, CSS, and JavaScript, I specialize in leveraging the power of React, a popular library, to bring ideas to life. The frontend realm fuels my passion as it merges my creative mindset with problem-solving abilities, enabling me to deliver exceptional user experiences that leave a lasting impact.</p>
+<p align="left">With a primary focus on frontend development, I thrive in crafting captivating and user-friendly web applications. Proficient in HTML, CSS, and JavaScript/Typescript, I specialize in leveraging the power of React, a popular library, to bring ideas to life. The frontend realm fuels my passion as it merges my creative mindset with problem-solving abilities, enabling me to deliver exceptional user experiences that leave a lasting impact.</p>
 
 ###
 
@@ -28,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
